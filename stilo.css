@@ -1,0 +1,12 @@
+
+  
+.head
+   {
+    height: 10em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url("fondo.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
